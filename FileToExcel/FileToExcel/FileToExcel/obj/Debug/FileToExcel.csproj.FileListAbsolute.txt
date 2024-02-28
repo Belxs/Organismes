@@ -1,0 +1,14 @@
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\FileToExcel.exe.config
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\FileToExcel.exe
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\FileToExcel.pdb
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\Aspose.Cells.dll
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\Aspose.Cells.xml
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\obj\Debug\FileToExcel.csproj.AssemblyReference.cache
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\obj\Debug\FileToExcel.csproj.CoreCompileInputs.cache
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\obj\Debug\FileToExcel.csproj.CopyComplete
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\obj\Debug\FileToExcel.exe
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\obj\Debug\FileToExcel.pdb
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\FastExcel.dll
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\FastExcel.xml
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\EPPlus.dll
+D:\organizmes\FileToExcel\FileToExcel\FileToExcel\bin\Debug\EPPlus.xml
